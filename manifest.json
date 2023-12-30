@@ -1,7 +1,7 @@
 ﻿{
   "name": "LethalFerrets",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/",
+  "website_url": "https://github.com/Kattejuice/LeathalFerrets",
   "description": "Play as ferrets in space suits",
   "dependencies": [
   "BepInEx-BepInExPack-5.4.2100",
